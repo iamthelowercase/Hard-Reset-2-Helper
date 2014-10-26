@@ -31,7 +31,7 @@ I feel a bit odd writing that last part.
 ## General Rules for this Repository:
 
 1. ABSOLUTELY NO COPYING STORIES/CHAPTERS - You may quote small sections, preferably single lines.  Quotes should probably go in the issues/comments rather than actual guides.  I will work out a method for referencing sections in the story external to this repository.  If you start copying large sections of the story, your post will be deleted, removed from history, and you will be sternly warned.  These authors work hard.  Let's keep the traffic on _their_ stories.
-2. Keep it clean - PG13 please?  Light language may be allowed, but keep away from F-bombs and racist speach.  Also, be kind when you are critically analyzing others' work.  Everyone's here to have fun and build our understanding of the story.  Theory crafting is meant to be fun, not combative.
+2. Keep it clean - PG13 please?  Light language may be allowed, but keep away from F-bombs and racist speech.  Also, be kind when you are critically analyzing others' work.  Everyone's here to have fun and build our understanding of the story.  Theory crafting is meant to be fun, not combative.
 
 ## How to Contribute:
 
